@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+   background-color: hsl(0, 0%, 98%);
+   font-family: 'Poppins', sans-serif;
+    Font-size: 15px
+}
+
+.head{
+     width:30rem;
+   
+     text-align: center;
+    
+     margin: auto;
+
+     margin-top: 2rem;
+}
+.head h1{
+    color: hsl(234, 12%, 34%);
+    
+}
+
+.head p{
+    color: hsl(229, 6%, 66%);
+    margin-top: -15px;
+}
+#top-heading{
+    
+    margin-bottom: -1.7rem;
+    font-size:28px;
+    color: hsl(229, 6%, 66%)
+}
+/* header part end */ 
+
+
+.coloumns{
+    display: flex;
+
+ 
+    gap: 2rem;
+   align-items: center;
+   justify-content: center;
+   margin-top: 3rem;
+ 
+}
+
+.col1{
+    width: 18rem;
+    height: 10rem;
+    background-color: white;
+    border-top: 4px hsl(180, 62%, 55%) solid;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.col2{
+    display: block;
+ 
+ 
+}
+.row1{
+    width: 18rem;
+    height: 10rem;
+    background-color: white;
+    border-top: 4px hsl(0, 78%, 62%) solid;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+.row2{
+    width: 18rem;
+    height: 10rem;
+    background-color: white;
+    border-top: 4px hsl(34, 97%, 64%) solid;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+
+.col3{
+    width: 18rem;
+    height: 10rem;
+    background-color: white;
+    border-top: 4px hsl(212, 86%, 64%) solid;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+#icon{
+    margin-top: 2rem;
+    margin-left: 14rem;
+}
+#card-heading{
+    font-size: 20px;
+    font-weight: 700;
+    color:hsl(234, 12%, 34%);
+}
+#card-para{
+    font-size: 12px;
+    width: 15rem;
+    color: hsl(229, 6%, 66%);
+   
+    line-height: 1.3rem;
+    margin-top: 10px;
+}
+
+/* body section end */
+
+.credit{
+    font-size: 1rem;
+    
+    text-align: center;
+ }
